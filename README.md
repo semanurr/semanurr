@@ -1,4 +1,4 @@
-# semanurG-r
+# Semanur Gur
 
 <h1 align="center">Hi 👋, I'm Semanur Gür</h1>
 <h3 align="center">A Front End Developer</h3>
