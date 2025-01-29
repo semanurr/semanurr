@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semanur Gür</h1>
-<h3 align="center">Jr. Front End Developer</h3>
+
 
 - 🌱 I’m currently learning **Javascript**
 
